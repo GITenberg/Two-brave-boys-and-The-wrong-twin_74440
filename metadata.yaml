@@ -1,0 +1,29 @@
+_repo: Two-brave-boys-and-The-wrong-twin_74440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ropes, Mary E. (Mary Emily)
+    aliases:
+    - Ropes, M. E. (Mary Emily)
+    - Ropes, Mary Emily
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '57192'
+    url: http://www.gutenberg.org/2009/agents/57192
+description: ''
+gutenberg_issued: '2024-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74440'
+language: en
+pgterms:marc905: 20240916145137ropes
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Two brave boys, and, The wrong twin
+url: http://www.gutenberg.org/ebooks/74440
